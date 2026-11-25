@@ -1,4 +1,7 @@
 .*
+!/.well-known/
+/.well-known/*
+!/.well-known/poppy.json
 *.md
 *.d.ts
 *.map

@@ -1,0 +1,14 @@
+{
+  "protocol_version": "1.0",
+  "organization": {
+    "name": "Frescopa",
+    "domain": "main--frescopa--lucianradu.aem.live"
+  },
+  "apis": [
+    {
+      "type": "mcp",
+      "url": "https://4189989-prod844e47e1-stage.adobeio-static.net/api/v1/web/llm-apps/mcp",
+      "description": "Frescopa MCP server"
+    }
+  ]
+}
